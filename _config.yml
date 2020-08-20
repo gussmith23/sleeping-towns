@@ -36,7 +36,7 @@ plugins:
 #   - vendor/ruby/
 
 podcast_url: http://podcast.justg.us
-podcast_album_art: "/image.jpg"
+podcast_album_art: "http://podcast.justg.us/image.jpg"
 podcast_title: Sleeping Towns
 podcast_owner: Gus Smith
 podcast_email: gushenrysmith@gmail.com
