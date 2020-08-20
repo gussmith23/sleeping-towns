@@ -36,15 +36,15 @@ plugins:
 #   - vendor/ruby/
 
 podcast_url: http://podcast.justg.us
-podcast_album_art:
+podcast_album_art: image.jpg
 podcast_title: Sleeping Towns
 podcast_owner: Gus Smith
 podcast_email: gushenrysmith@gmail.com
-podcast_category:
-podcast_subcategory_one:
-podcast_subcategory_two:
+podcast_category: fiction
+# podcast_subcategory_one:
+# podcast_subcategory_two:
 podcast_explicit: "no"
 podcast_author: Gus Smith
-podcast_description:
-podcast_summary:
-podcast_subtitle:
+podcast_description: stories from the lonely outstreets of sleeping towns
+# podcast_summary:
+# podcast_subtitle:
